@@ -10,7 +10,7 @@ import { ToastsContainer, ToastsStore, ToastsContainerPosition } from 'react-toa
         this.state = {
            
         }
-        this.handleSubmit=this.handleSubmit.bind(this);
+       
         
     }
     handleSubmit = () => {
