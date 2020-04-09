@@ -11,7 +11,6 @@ import { ToastsContainer, ToastsStore, ToastsContainerPosition } from 'react-toa
         
             submit: false
         }
-        this.handleSubmit=this.handleSubmit.bind(this);
         
     }
     handleSubmit = () => {
